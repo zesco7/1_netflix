@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9833E63B287DC749006B1B47 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9833E63A287DC749006B1B47 /* SignUpViewController.swift */; };
 		9882A4CC287834EB009F3193 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9882A4CB287834EB009F3193 /* AppDelegate.swift */; };
 		9882A4CE287834EB009F3193 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9882A4CD287834EB009F3193 /* SceneDelegate.swift */; };
 		9882A4D0287834EB009F3193 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9882A4CF287834EB009F3193 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9833E63A287DC749006B1B47 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		9882A4C8287834EB009F3193 /* 1_netflix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 1_netflix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9882A4CB287834EB009F3193 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9882A4CD287834EB009F3193 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				9882A4CB287834EB009F3193 /* AppDelegate.swift */,
 				9882A4CD287834EB009F3193 /* SceneDelegate.swift */,
+				9833E63A287DC749006B1B47 /* SignUpViewController.swift */,
 				9882A4CF287834EB009F3193 /* ViewController.swift */,
 				9882A4D1287834EB009F3193 /* Main.storyboard */,
 				9882A4D4287834EF009F3193 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			files = (
 				9882A4D0287834EB009F3193 /* ViewController.swift in Sources */,
 				9882A4CC287834EB009F3193 /* AppDelegate.swift in Sources */,
+				9833E63B287DC749006B1B47 /* SignUpViewController.swift in Sources */,
 				9882A4CE287834EB009F3193 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
